@@ -4,8 +4,6 @@ const BlogPostCard = props => (
         <div className="cardContainer">
             <style jsx>{`
                 .cardContainer{
-                    padding-left:20px;
-                    padding-right:20px;
                     margin: 20px;
                     display:flex;
                     flex-direction: column;
