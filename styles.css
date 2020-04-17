@@ -6,7 +6,6 @@ body {
     background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(21,188,125,1) 0%, rgba(0,248,255,1) 100%);
   }
 
-
   .contentDescContainer{
       padding: 10px;
       display: flex;
@@ -50,6 +49,7 @@ body {
     padding: 32px 64px;
     border-radius: 8px;
 }
+
 .markdown img{
     max-width: 800px;
     margin: 32px 0;
@@ -59,7 +59,8 @@ body {
 
 .markdown a {
 	color: #4183c4;
-	text-decoration: none;
+    text-decoration: none;
+    word-break: break-word;
 	}
 
 .markdown a:hover {
@@ -110,3 +111,36 @@ body {
     border: 1px solid #aaa;
     padding: 10px 20px; 
 }
+
+
+@media screen and (max-width: 800px) {
+    body{
+        width: 100%;
+    }
+    .markdown {
+        min-width: 200px;
+        margin: 0 auto;
+    }
+    .markdown img{
+        margin: 8px 0;
+        margin-right: 0px;
+        max-width: 100%;
+        height: auto;
+    }
+    .markdown h1{
+        font-size: 2em;
+    }
+    .markdown table, th, td{
+        border: 1px solid #aaa;
+        font-size: 1em;
+        padding: 4px 8px; 
+    }
+    .syntaxhighlighter {
+        overflow-y: auto !important;
+        overflow-x: auto !important;
+        max-width: 800px;
+        margin-bottom: 64px;
+        max-height: 500px;
+        font-size: 0.5em;
+    }
+  }

@@ -8,8 +8,9 @@ const linkStyle = {
 const Header = () => (
   <div className="headerContainer">
     <style jsx>{`
+
       h1{
-        margin: 24px 64px;
+        margin: 24px 0px;
         font-size:1.2em;
         border : 1px solid black;
         background: #fff;
@@ -26,11 +27,32 @@ const Header = () => (
        }
       .headerItems{
         display:flex;
-        justify-content:space-between;
+        justify-content:space-evenly;
         align-items:center;
+
       }
       .linkContainer{
-        margin-right: 64px;
+        display:flex;
+        justify-content:center;
+        align-items:center;
+        flex-wrap:wrap;
+        margin-left: 10%;
+      }
+      @media screen and (max-width: 800px) {
+        h1{
+        }
+        .linkContainer{
+          margin-left:0px;
+        }
+        .headerItems{
+          width:100%;
+          display:flex;
+          justify-content:space-evenly;
+          align-items:center;
+        }
+        a{
+          margin-top:8px;
+        }
       }
       `}</style>
       <div className="headerItems">
