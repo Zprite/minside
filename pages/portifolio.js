@@ -14,6 +14,13 @@ export default function Portifolio() {
         </p>
       </div>
       <style jsx>{`
+      
+        .contentDescContainer{
+          background:#eee;
+          padding:20px;
+          border: 1px solid #aaa;
+          border-radius:12px;
+        }
         .cardView{
           margin: 0 auto;
         }
@@ -22,6 +29,10 @@ export default function Portifolio() {
             flex-direction: row;
             justify-content:center;
             flex-wrap: wrap;
+            background: #eee;
+            padding-top:48px;
+            padding-bottom:64px;
+            border-radius:8px;
           }
         `}
         </style>

@@ -8,37 +8,41 @@ const linkStyle = {
 const Header = () => (
   <div className="headerContainer">
     <style jsx>{`
-      .headerContainer{
-        border-bottom : 1px solid #333;
-      }
       h1{
-        margin-right:64px;
-        font-size:1.75em;
+        margin: 24px 64px;
+        font-size:1.2em;
+        border : 1px solid black;
+        background: #fff;
       }
        a{
          text-decoration:none;
          margin-right:32px;
          color: #000;
-         font-size: 1.5em;
+         font-size: 1.2em;
        }
        a:hover {
          color: #36bf8c;
          transition: color .4s; 
        }
-      .linkContainer{
+      .headerItems{
         display:flex;
-        justify-content:center;
+        justify-content:space-between;
         align-items:center;
       }
+      .linkContainer{
+        margin-right: 64px;
+      }
       `}</style>
-      <div className="linkContainer">
+      <div className="headerItems">
         <h1>Marcus B<br></br>Birkeland</h1>
-        <Link href="/">
-          <a>Hjem</a>
-        </Link>
-        <Link href="/portifolio">
-          <a>Portefølje</a>
-        </Link>
+        <div className="linkContainer">
+          <Link href="/">
+            <a>Hjem</a>
+          </Link>
+          <Link href="/portifolio">
+            <a>Portefølje</a>
+          </Link>
+        </div>
     </div>
   </div>
 );

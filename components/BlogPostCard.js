@@ -3,11 +3,11 @@ import Link from 'next/link'
 const BlogPostCard = props => (
         <div className="cardContainer">
             <style jsx>{`
-                .cardContainer{
+            .cardContainer{
                     margin: 20px;
                     display:flex;
                     flex-direction: column;
-                    width:370px;
+                    width:300px;
                     border: 1px solid #aaa;
                     border-radius: 10px;
                     text-decoration:none;
@@ -26,7 +26,7 @@ const BlogPostCard = props => (
                     vertical-align: bottom;
                 }
                 img{
-                    max-width:300px;
+                    max-width:250px;
                     max-height:200px;
                     border-radius:5px;
                     margin: 0 auto;
