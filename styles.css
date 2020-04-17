@@ -3,10 +3,6 @@ body {
     margin: 0 auto;
   }
 
-h1{
-    margin-top: 32em;
-    font-size: 0px;
-}
 
   .syntaxhighlighter {
     overflow-y: auto !important;

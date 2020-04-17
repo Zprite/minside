@@ -1,0 +1,7 @@
+export const posts = [
+    {date: "22-02-2020", title:"terminus" , desc:"Jobbkalender og lønnsoversikt for de som jobber skift eller deltid!", img:"https://lh3.googleusercontent.com/E3oGglCOXFNBPqtYEdlITwPUuOhmyU2uElyQfMTUvv0cgXzI7dQNFdtNG9FbH0-XXnqAKwQU70Dz0bLQqis-FkvR7VGt-bmCD6WjU60VIrUXhKsFns0-WrxKh5jpDyecJgGKkbcmxCQrjjsRS-81tICXx_FZGIyCrwK2XMhoBwqkCcVS3KLtUv2wKtp961JqcCs-P6Ta5feq2a8urrwZsojT0ShJ2wq7StDBNd4O3O5F1ItuJId1mCgWfP9LDeoZJfFHhPYc0kX_pFXCZD-qOGCbnu8F31X-cFyBU9u2mHVN01e0108Aat7ONexnYFCaa7r62BT1wynd24gFt70tUcuu2lXU7HGBMKZOBKbtvfejT6s2pNieD7GfaIa6HJcRdADbWrZL47qJ9ne5LaHoyBpmNC9pGDrlS8O9vovKvna2p9o0QuMYvuG752h1qR2SlANB37voMnCxBphmTDt21iL7qxZRCZ_UEeD7PXcq201uWmhnhomi4KRD1EIXKZn5PkM9a4IMIbPLLjGr6FbNt3byqdu_XBxFKfClZRCRASftt0bimJ0aK9gFseLtV-_7nadwsXHqwBdH9GqDdkIbNpCzwS2YUa79xySAHK6h1z12KJUQGg-Wh47r52MEveCB-PMNLGireJhjJ3ib-U5CgSH1veYtutfSrfjsawomSlUPO4NEQHCO=w403-h197-no"}
+    ,{date: "30-07-2015", title:"Prosjekt N", desc:"En mod til Super Smash Bros Melee", img:"https://scontent.fosl3-2.fna.fbcdn.net/v/t31.0-8/12052554_1644910162441416_196696005697174009_o.jpg?_nc_cat=111&_nc_sid=07e735&_nc_ohc=kNiDFtYn_DgAX875Lgl&_nc_ht=scontent.fosl3-2.fna&oh=3b52c488b6377ce910ccafed11ef1984&oe=5EC0FC9B"}
+    
+]
+
+export default posts;

@@ -12,7 +12,6 @@ export default function PostTemplate({content, data}) {
   return (
     <Layout>
       <BlogContent className="blogcontent">
-        <h1>{frontmatter.title}</h1>
         <ReactMarkdown className="markdown" escapeHtml={false} source={content} renderers={{code: CodeBlock}}/>
       </BlogContent>
     </Layout>

@@ -10,14 +10,14 @@ const Header = () => (
     <style jsx>{`
       .headerContainer{
         border-bottom : 1px solid #333;
-        display:flex;
-        justify-content:center;
-        
+      }
+      h1{
+        margin-right:64px;
+        font-size:1.75em;
       }
        a{
          text-decoration:none;
          margin-right:32px;
-         padding-bottom: 8px;
          color: #000;
          font-size: 1.5em;
        }
@@ -26,11 +26,13 @@ const Header = () => (
          transition: color .4s; 
        }
       .linkContainer{
-        display: inline-flex;
+        display:flex;
+        justify-content:center;
+        align-items:center;
       }
       `}</style>
       <div className="linkContainer">
-        <h1>Marcus B Birkeland</h1>
+        <h1>Marcus B<br></br>Birkeland</h1>
         <Link href="/">
           <a>Hjem</a>
         </Link>

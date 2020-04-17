@@ -1,9 +1,5 @@
----
-title: "Terminus - jobbkalender og lønnsoversikt"
-date: "2020-01-07"
----
+
 # Terminus - jobbkalender og lønnsoversikt
-![alt](https://raw.githubusercontent.com/Zprite/minside/master/res/terminus_promo.jpg)
 
 Dette er en Android applikasjon jeg laget for å gjøre det lettere å holde oversikt over arbeidstider og egen inntekt. Appen har deremed to hovedformål:
 
