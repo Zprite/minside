@@ -36,12 +36,6 @@ const Header = () => (
         <Link href="/">
           <a>Hjem</a>
         </Link>
-        <Link href="/contact">
-          <a>Kontakt</a>
-        </Link>
-        <Link href="/apps">
-          <a>Apper</a>
-        </Link>
         <Link href="/portifolio">
           <a>Portefølje</a>
         </Link>

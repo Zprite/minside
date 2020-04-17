@@ -3,6 +3,20 @@ body {
     margin: 0 auto;
   }
 
+  .contentDescContainer{
+      padding: 10px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      max-width: 800px;
+      margin: 32px auto;
+      border: 1px solid #0fa;
+  }
+
+  .contentDescContainer h1{
+      padding: 0px;
+      margin: 0px;
+  }
 
   .syntaxhighlighter {
     overflow-y: auto !important;
