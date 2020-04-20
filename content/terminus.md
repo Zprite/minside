@@ -12,9 +12,9 @@ NB: Minimumskrav : Android  8.0 Oreo
 
 ## Kalender
 <div class="imageContainer">
-    <img src="https://lh3.googleusercontent.com/1__Zc2ym7Zgj68f8tzFQ5faG3u5f5Ubzd6C_FWvH0Srb7FP0ItFAb_OzRPozMKG5UPvCPykSABiH3SP4Ppdyr-OcoMzrq6-d_npcSyVUJSLsIjSuRMOAz7yJHHC8H8_mnVpYwpQ2mPEfogyKpw4A-xJhZ1zwP0RU9iY2dgx-7MgAZCzHPCMyxntp3LEcG6RFFPLqosIdmCLiNKwcc-b45G1xNatMVX0xFR1K6HJPzMP6oya0jdQyZk2LcpBfcEs7HoSZUdgnXCH-_h49a5xYfxcsaDTohPeyMEJaUPUghq2v4jGSuyab_D48LMxZhtz96oR0S-bDtKuBsPUrFpA4_P5Uz4l6MylnYbU2WGd0av8TIkvglQzInu5pGBIxGRStx_Wd00eNJdS7i2unEYhFOWvfo4J_-z_elvXwLEq2zwhgYFNAyG7m7GU7-D_VPSXw3YZ5xOSWIRGWZNqVZf4oaMsznI3ognySr5EK2_7BovSA_Ne9Els5NBzgcIcT4Tn3BTJxMoK7emA9SthNgSubu_FOmaa3Y3ChRLacntbQZJv5lKyreKAKsDZEc1h3_vEVFQOrODYK-_u3kpcnDznBuj2XMxbz_04XfMBe4hKgnSF3aRSosJlJRZcx6FHjlEgwvQbID0mSSC7rJ3mbAIRnkRt8TxnLSZGyzFyTvpiEafgiQBM9wgLJ5g=w663-h1326-no" alt="Kitten"
+    <img src="https://i.imgur.com/G5uHCJX.png" alt="Kitten"
         title="Bilde av kalenderen" width="300" height="600" />
-    <img src="https://lh3.googleusercontent.com/_PkgnfOXGorTZnNPErrFMs_cNT8PjMAXOFYFsFiJygTpaUVsiXvzyh1BSIVoIevckono3ykkOzaFkMV8tZ5Cy-zoBMjQ0ZW3cnKakgFeb7EphtwYov_ljz7cQEfTQg4hStxM16jVrG_p8LMDaYbViM5PKHywxR_32-Z_yD40hqxWb6F6vfVkWK0LfyeBL9NXy54oW-9X5UBkb6kai1GA9_OEydXyfcfiKUCZxT7oknqn2KZSkQHkZTgfT0YA1BXuymL0UQDMePMTs8imEFPxdeM1A7ZGOtL45HXrraQC0uTvQhzVI1kqdhEhu7REnGI_ZOmDFQVsSh3DhdPGieRq7MbnwsIlbhzAqMGgnFt2qBnomxzaZf9cMFNT4dna2TFsXvpiZNg1M-Oq6U62vkryN6DIMTFdcaQbSuZ0uUtl6uUJpBe6oyRlWX5IU8qLcR91Nd5nVqkdnpzQyLZ0yyq2sQPwR8xAi03zWsjzUsAnVTIP2RoHTwcG4kx1pWjRi_7u_hF_WjSFthUha3EFVpTuH_QCYT6ESMIa-p54jVcmkrAnzMf50k8P8XRHNsOMmI80_dDG8NVGjw5ERjH8IeI6hI_-DXYgxDBgkydWEb1j_rVvmaJoH8Lb01aygu4SI1QIYs01OBkl3IS5GPbUPJY67PBGB5J2jPVCKqkSrJO4q4tUgFr_VjhfKA=w543-h1086-no"
+    <img src="https://i.imgur.com/TwFtC4R.png"
             title="Bilde av vaktopsett"width="300" height="600" />
 </div>
 
@@ -30,9 +30,9 @@ For å registrere vakter i terminus må brukeren velge aktuell dag i kalenderen 
  
 ## Lønnsoversikt
 <div class="imageContainer">
-    <img src="https://lh3.googleusercontent.com/jt5z_Bqmvgb0Rwm4Fn6SD98m2V3EnFCkrDQlIt9u5LZwuNju3VbNn671ExkXryUTj_xKssjpNn2lI3felLSA-PVrlVUGB05EqeUZ3zCbNABRWQNVr2hjWwUH8rQ_8DvkAU-yf_cRGQF69qnT6DulgHV0I8kHug1Lp85HPV3jCa4tUuWmhII3xjVXu-sGhzF3MQPHbHQg_WlO55A6X1pzwCbR4bIOXqtZ_l6cIGsYzEWt4xJRr3f3ZHoCHr2dUFaf5h2hdpOvSrAlQzXC5h0pXvWW45_rZVIDnbVincHS2Lr42HVMPZdY_HEq5U0rVx78GcswNTkPpIfXrKCrRuW4iBUnu14t10roJn6eB3hcwitz2pLCKM5DlJnFVetqtO-3oXWHooBo8LxGbrKO7W_6X1fXYuiZ1Rm3gfwk9KdAlaLvcPtNPBoPNFa3VlfHkJEDQcP25k3kKqovoO5hCrNAVfI5yNEUirr8wJnbfaBklrBLtb0a0THGdorVbEyhZUUaFQY6LY4F3HhVOimRbYyOgHL0PUM4V-ChjXfT-OnIWVThbMKXSUa5pg-pSar9M-KBosKkeoLDMYNhPA5ZhyvPGiK1CSyw8XGqoN5LnunkQpy9H1HPv1zN8E2dwc8OdJ13_0wFR-Vf1D6bWdgiKzZ9nD2ZSbf5fbDFmHfTjVSSHOF0S75fD_9QTA=w543-h1086-no"
+    <img src="https://i.imgur.com/BL3oKTx.png"
         title="Bilde av lønnsslipp" width="300" height="600"/>
-    <img src="https://lh3.googleusercontent.com/9kKR30RTk0DYi2_yJi3UgbCQPJVVy1JO9Id0SIM0LwYwhtv8I3VXuYUcPVN0rfvEwSRSF3V0LfvGwMg77RQKCkicYn6MqzgdaJZdkel9diHrSVCnZ6y1r3UWx4IFRnJXPu7u6AxtABOUNy42ZRDXJGyATXi6JXwWM1zNMjbTGZPaTewO_0ByS2CK5UyhuEfLtJEgq2goq3tPxxHnT7M9m6VFKhXCTIFOKijxTzN0yxNr56fFBLHJ3yHR62BYoEyA0y3vSqi7FESC5t3i2NDDopKVwSPRWzAs6N2qFysyHUS4uQHqfe6a5YsMzziISwuWtI221xEWUcsRg14rzEWq3uQU3zCboeAa6rR09JZstT8k5SHShDm6GgBZe2NFX1xpWnDoWHXG2Fx86qrqc6WQKg9rjk5ApR5UcjINhMBeyedl4i_8k6XQla3HFayn4tmGeFTiaK9c--UDtTd020s_MLNnO3BiKQMUh1HmuhARcVLWh8zJbZxKunev2mN5rxa6KhM5kdHIlZnww7n5J25wyZpeHB8d6A_kcEqBwa9EtSZ7GJeLiGNGfuox7mcd7HCYvmqzoXvSIy7WgJPImbjJpI0bg8DJix8i1TDbfi21XwQiQBLELGJA58VAK1KkoxlQbfMvXfJ4FDjEskYqgz3wf-MIsibCtsGeFn677Ewwv_nZHJo9W2RJRg=w543-h1086-no"
+    <img src="https://i.imgur.com/WwKVThe.png"
         title="Bilde av lønnsslipp"width="300" height="600"/>
 </div>
 
@@ -42,7 +42,7 @@ For å registrere vakter i terminus må brukeren velge aktuell dag i kalenderen 
 
 ## Teknisk
 <div class="imageContainer">
-    <img src="https://lh3.googleusercontent.com/VZ9oGJGKoZpkRgaZp2Z_FGQDsDvp-mKOpKBFBHVsb8O3G0jmHatqisgH68FPsUIueLHTy0ZD631zBkbf9A_IZ9hjAh6DfpfvkRJtlk7_YCTqzJlf-vZXpE0mWx0EFsRmD8Nl5WFwm0R802TUAN89-CGEOtaKlOgYGGpcnov7JsFWaFQJfejzm-VYVa58hrAMj1mOPqXlR2ZMvL7kAhzDTIXHrnrb2SwhY7_MubCRrevhA8w76f3jBpHflygSKeKLjhTRJ1-3dZhxpnYRQsqnO1Sf3gLQO74sxytOiTINeI1-PB2tx6DeXkKQZYA6KkQlqZjRsmduR0zwcX8kINcLaWwMxbuJxZnUAzJLPhAbrRAwnFnWFkG4HdLpPJpEZSWXnDUfHv7iq-ivRGJAgaCuUaqyWvD1kJqYo03SUVz7WDAeT26rhvlB8Bydu_3MoY-531qH0obVO9sDTevjEVWJOh69EoPR3eLfo2NmwX2s5A1KN48CVGh8hrqR86B7hcTkd-MaRzO1GqP5GSTAhZZYKJyOJWFypFe1QQ0fwkKCWbd9YvySLqGcGmvAXYSrQMnDAINthFtv0F-j1nKTEo4_P4-qx_-v1HpkitU8MAyYdywKCrO6JmvRaj-4RSuaFyUZVzZWNNH1tC29pcXCrGzGTNpQECg-DxsuTvS4axyvzZ4TQkhe1xsEzg=w958-h655-no" 
+    <img src="https://i.imgur.com/voFYX9e.png" 
     title="Klasseflyt-diagram" width="800" height="600"/>
 </div>
 
@@ -54,7 +54,7 @@ Applikasjonen baserer seg i all hovedsak på to lister med objekter:
 Disse listene er lagret lokalt på enheten på JSON format, og blir brukt for administrering av vakter, jobber og i lønnskalkulatoren. 
 
 <div class="imageContainer">
-    <img src="https://lh3.googleusercontent.com/Ytp3ifuEUDgJOtFNAHLQpldqgh7q9IsexTas4p1652u1ewe1RP-zA0CjnGXhgG4lIwBHtMcUoWSeXwBmiFgHQRRpTokkzroIXedYUeRCrhBL5ZxRCo81JNigWASMoKhxDol7lCTfiGqemujGOHGp_rniDqRNhJpleuzDbfmWgiuyOTgzgYhkKy_MdGmhXiwJQfiRg4kvPQv91CIi0RPob_S2zuv2v9hDT-TgV0kBA0-z63lqCUwW46cqFDgd9pC-drgBWD7dcrFVDvh98BNiMq4WRnguDOULt0HpYZWuTwUTUGi0PK8jQ_SOGhoGHk5h40TB5n0BCkQmfDKsknCCERGi34zShA14rhtY5MFOVcgbI-6t8-VpdCb67SJrp5G_q8Xh0Jk4TE4wtryA_YsuJWreaQCkSI7H95cgII3Md_fcz-FK2-LtQaGIRtPlN3l3KwoXJHMAYtL7ijhYF9E8CHEKRl-W-P_3dQ3tJ4l7prV54HqqmEtlGf_ak1y3fv59zk_zhmpDHInSay85yD6XmhnCmFLEiohnw0houaNo3JflDTdNZSVPZE5iCkTppPo1PkZI6A30r-SKLgNEw2US82AzL_1sMQmZNrWbPBgxSVWexqqAq-EU45yaZ3AQq9vtWgyADWfyT4RdJPgNDgx2RBNXBqU4tvL2AmK1Zr2Opli-IHfpTJI3ng=w1363-h566-no"
+    <img src="https://i.imgur.com/Ih1diIV.png"
     title="Datadiagram" width="800" height="350">
 </div>
 

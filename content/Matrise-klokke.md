@@ -2,7 +2,7 @@
 
 I dette prosjektet har jeg laget en flerfunksjonell klokke som benytter en RTC-enhet og 4stk 8x8 LED matriser som er satt sammen til et 16x16 display som styres av en Arduino. Selve klokken blir drevet av en generisk RTC-modul med batteri, slik at tiden blir bevart selv når Arduinoen ikke har strøm. Hver av disse matrisene drives av en MAXIM 7219 IC. I koden har jeg benyttet meg av 2 biblioteker for å drive displayet, og ett bibliotek for å drive RTC-en. All annen kode er egenprodusert.
 
-![Matrise-klokke](https://lh3.googleusercontent.com/Lr6ZSwOXqfxsyueZe_1FyKj56kabUOADxaH_vkMYXYdrFNgWTEcCquCKJ-uaYlRk_gq5nkAu9A2EW2dKpO590xmrBb7z_kRAisIUfIXv6_8MgTHQ-PAGD7eBFzC8hjHBPdlHHVfmcVGVvJcFRGaGN6shYroURnExMJjy7E4zu4iiRSUkoqsrv96QyFdThoqdzeJ3vRROjN7TvahSRLzLbNjpfVeFIqYhXL7Sw0ld90wFpW8ZSqouZiaRPYDJ4zzFZE87PFWjbf_IbTgCpAhDUTbbtRjW__Fmw-WZsktF_ozoXTuVZaUuw5BNduJ0jx0AMfVpcYE-ieY71v-HOUM26_YLyhRJcPBfIPnD2V8gCplWjks5Y1PZMK3wDdIjuMK_P1f8vQdzBqbozgHGQufEQ4sMqlAXqECJcT8JSEXWUgRbLOEXZXYrgbTZqZAC3bX7C37o-6zJ35R3blzVMuh4DsrghbK7g_Ngkk8zBjdXAbIcwNshl949ODYAdYSZkyl_JTSsqdT4VRczSciEMg8XQK7WCFoZ9buI2nL3520z1HgZ6aFOfeuN4YDLpbrS8BIle3cBy10J3lLetrsSRfpElUlOoD6eC0cLjK4cGmXV5Sl79hkZDrOTGIEErCdshjBVRZKe8hxXJ-NOyeKCM6rhlPt-PnjTF_OTj395s5m5fy2Se6m_IzYY=w1017-h1019-no)
+![Matrise-klokke](https://imgur.com/Oe7U6of.png)
 
 
 Klokken har disse hovedfunksjonene: 
@@ -30,9 +30,9 @@ https://github.com/Zprite/MatrixClock
 - 3x Impulsbrytere
 - 1x Blå indikator-LED
 ### Oppkoblingsskjema
-![Oppkoblingsskjema](https://lh3.googleusercontent.com/zGg3Wup6brPvF0ZtN9eb_d91Tp3aeCk3jNzpwsnZ1aAqa8K9OXLmomY3QorYG-UCEKDbQrp8WKm6eILtBbZrmE4WzNdMrDvqBUpLzNdlL0v2a2QmRJMEmJJTuOQWW68qcBvR_qJuXY0WRsc6QgmVHq4A-Y3sgg4zv7UrCefAaGuxbKnatwtipIGLG_MGE8Cy2DO-ybwY0UHJNRW-TLkNWe0qZHabm-B-UFz5tCu6BjOn30gSt_NxDWE3ZL3m54U5bbHjqxLJNYWBGelxAx3k6cohEXITjFnqlKzu37Ia2VM0eCYJhDgJOUL3zqQgA0JXAKiHbpjFwcAyYPoqbn3e6PRs1W1aXv5wcr8XHwX_lnVeF_QCLPU4CpeYNU70Q_OHxeknjBBuRMU44Y9SkZxAUswwBd2c7n1sJT_7NEFO2RvHyaJE0L7PNBFYv46ZLm62Me5cADCH5Bl-bV93KJN_KNr8O_QTUdazZSUPdKJ-bMyVnJXKsvYMWy_C_I07BaHQA4fxb4cnvS7BqJyxIZsOE3F5z697dWkD7NJbk-ESTVfpmCQpirDxhiAYymir__s8Z_mwdzY9SAijtgp9x7U2OFyvokKVNsOizvHvsoP07LLVg6JL5Q5hOReEnHvB5pCBhZjFSUsYjJH3NLrcGjWF-9vABdX4A2_KjdaK1xkr_63fsVQGfLTf=w1469-h842-no)Over er et skjema for hvordan jeg har koblet opp kretsen på breadboardet under. Da jeg ikke hadde en buzzer byttet jeg ut dette med en blå LED. Noter at matrisene i tegningen representerer matrisemoduler med MAX7219 innebyget med et I2C grensesnitt. (Disse fås billig på eBay)
+![Oppkoblingsskjema](https://i.imgur.com/YIyVAjh.png)Over er et skjema for hvordan jeg har koblet opp kretsen på breadboardet under. Da jeg ikke hadde en buzzer byttet jeg ut dette med en blå LED. Noter at matrisene i tegningen representerer matrisemoduler med MAX7219 innebyget med et I2C grensesnitt. (Disse fås billig på eBay)
 
-![Koblet opp på breadboard](https://lh3.googleusercontent.com/EmqQCQ2JvJ2IKkXRsoM5fad0A7JfEftnjpBda9IoarQCjrfmALbgKd92hsGFIxvw9ZNuGCZ4dv2bA8bq2bpxz9fHk01kMwCpPQqF7XxQDeEwam73XzXfoECGhrI7VPpNfQY9uGwuZh0D5L_mGnOZRVteHIlCpmN9pVYfKeMaZqmaN-JyvOMVurekhFMul43ZXaP5FuaTZLjKOuPkI1igkkU7ArvjhFSiJSNyezk7D2tJ9OEul_1SnCHtaX43---8tYF3vJDw2UHQu9ZvpA8BGMBwNtdx0BT_cakoB0trdaWK0b1u6PGPNWie7rdspQcPK5vTZK7qDNYJNXE9kWVvHtbcqLd3mSvRXscBWpX7kcKsw4Jk7Q33T9tpSdkJJxyY4EmIL_OMm41G78NW68170l7tpgkATcexaxgLRAoSoE7iYxbXtHs4VzFOwZl63w_5ZuRqQlSOs0VNYFKh6Lhel0Jdg2XsAGc8eiFfC4vBe91lEjWNoFwGNWTjEHCdPQg1FulLuqQnUQMB_SbIhAXIJYeLY6zvI_BoBt26AnV5hSJ-CUSRrTk4ZSyojR0WM57ucI-wSvRxrAPjAJTeC5g-KnpTfqqYAN0IML689SPZBs1QOadz7L37IN09fRmNEtLIN1eD9C4hTOvT5krSO6DzZEn5TJAeGSVAPMqQq7BqpiVEHW3w4Sw1=w1448-h1086-no)
+![Koblet opp på breadboard](https://i.imgur.com/SyIy0gr.jpg)
 Her er kretsen koblet opp på et breadboard. Matrisene og driverkretsene er loddet fast til modulen til venstre i bildet, og er koblet direkte til Arduino. RTC, knapper og LED er alle på breadboardet.
 
 ## Kode
