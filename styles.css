@@ -37,6 +37,7 @@ body {
     max-width: 800px;
     margin-bottom: 64px;
     max-height: 500px;
+    font-size: 0.8em;
 }
 
 .imageContainer{
