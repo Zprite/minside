@@ -10,19 +10,24 @@ const Header = () => (
     <style jsx>{`
 
       h1{
-        margin: 24px 0px;
-        font-size:1.2em;
-        border : 1px solid black;
-        background: #fff;
+        font-size:1.3em;
+        border : 1px solid #fff;
+        color:#fff;
+        padding:12px;
+        margin-left: 32px;
+      }
+      h1:hover{
+        border: 1px solid #fc036f;
+        transition: border .2s;
       }
        a{
          text-decoration:none;
          margin-right:32px;
-         color: #000;
-         font-size: 1.2em;
+         color: #fff;
+         font-size: 1.3em;
        }
        a:hover {
-         color: #36bf8c;
+         color: #00ff95;
          transition: color .4s; 
        }
       .headerItems{
@@ -39,8 +44,6 @@ const Header = () => (
         margin-left: 10%;
       }
       @media screen and (max-width: 800px) {
-        h1{
-        }
         .linkContainer{
           margin-left:0px;
         }
@@ -56,7 +59,9 @@ const Header = () => (
       }
       `}</style>
       <div className="headerItems">
-        <h1>Marcus B<br></br>Birkeland</h1>
+      <Link href="/">
+        <a><h1><span style={{color:"#00ff95"}}>M</span>arcus <span style={{color:"#fc036f"}}>B</span>irkeland</h1></a>
+      </Link>
         <div className="linkContainer">
           <Link href="/">
             <a>Hjem</a>

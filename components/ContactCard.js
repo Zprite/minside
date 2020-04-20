@@ -18,6 +18,7 @@ const ContactCard = props => (
       }
       p{
         margin-left:12px;
+        word-break: word;
       }
       @media screen and (max-width: 800px) {
         .contactCard{

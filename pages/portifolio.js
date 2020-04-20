@@ -6,24 +6,29 @@ import posts from "../content/BlogPosts"
 export default function Portifolio() {
   return (
     <Layout>
-      <div className="contentDescContainer">
-        <h1>Portefølje</h1>
-        <p>Her fremhever jeg alle mine større og mindre prosjekter, og skriver bloglignende innlegg om hver av de. 
-          Dette inkluderer alt fra beskrivelser, kodeeksempler, 
-          bilder og personlige tanker og opplevelser.
-        </p>
-      </div>
-      <style jsx>{`
+     <div className="portifolioContainer">
 
+      <style jsx>{`
         .contentDescContainer{
           background:#eee;
-          padding:20px;
-          border: 1px solid #aaa;
+          border: 1px solid #eee;
           border-radius:12px;
+          margin-bottom:8px;
+          display:flex;
+          flex-direction:vertical;
+          justify-content:center;
+          align-items:center;
+          max-width:400px;
+          padding:24px;
+          padding-top:32px;
+          margin-top: 24px;
         }
         .cardView{
-          margin: 0 auto;
-
+          margin: 0 5%;
+          background:#eee;
+          padding-top:0px;
+          margin-top:0px;
+          border-radius:8px;
         }
           .cardContainer{
             display: flex;
@@ -31,27 +36,42 @@ export default function Portifolio() {
             justify-content:center;
             flex-wrap: wrap;
             background: #eee;
-            padding-top:48px;
+            padding-top:12px;
             padding-bottom:64px;
             border-radius:8px;
-            margin: 0 20%;
+            margin: 0 4%;
           }
           @media screen and (max-width: 800px) {
             .contentDescContainer{
-              margin-left: 16px;
-              margin-right: 16px;
-            }
-            .cardContainer{
-              margin: 0 16px;
+              background:#eee;
+              border: 1px solid #eee;
+              border-radius:12px;
+              margin-bottom:8px;
+              display:flex;
+              flex-direction:vertical;
+              justify-content:center;
+              align-items:center;
+              max-width:400px;
+              padding:24px;
+              padding-top:32px;
+              margin-top: 50px;
             }
           }
         `}
         </style>
       <div className="cardView">
+      <div className="contentDescContainer">
+        <h1>Portefølje</h1>
+        <p>Her fremhever jeg alle mine større og mindre prosjekter, og skriver bloglignende innlegg om hver av de. 
+          Dette inkluderer alt fra beskrivelser, kodeeksempler, 
+          bilder og personlige tanker og opplevelser.
+        </p>
+      </div>
         <div className="cardContainer">
           {GetAllApps()}
         </div>
       </div>
+      </div> 
     </Layout>
   );
 }

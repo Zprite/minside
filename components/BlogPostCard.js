@@ -9,10 +9,17 @@ const BlogPostCard = props => (
                     flex-direction: column;
                     align-items:center;
                     max-width:300px;
-                    border: 1px solid #aaa;
+                    border: 1px solid #00aa50;
                     border-radius: 10px;
                     text-decoration:none;
                 }
+            .cardContainer:hover{
+                border: 1px solid transparent;
+                border-image: linear-gradient(to bottom right, #b827fc 0%, #2c90fc 25%, #b8fd33 50%, #fec837 75%, #fd1892 100%);
+                border-image-slice: 1;
+                transition: border .2s, border-image .2s;
+                border-image-radius: 10px;
+            }
                 a{
                     text-decoration:none;
                     color: #000;
@@ -39,6 +46,16 @@ const BlogPostCard = props => (
                     transform: translate(-50%, -50%)
                     
                 }
+                img:hover{
+                    transition: left, top .5s;
+                    transition: box-shadow, .5s; 
+                    left:53%;
+                    top:47%;
+                    -webkit-box-shadow: -9px 10px 18px 0px rgba(0,0,0,0.75);
+                    -moz-box-shadow: -9px 10px 18px 0px rgba(0,0,0,0.75);
+                    box-shadow: -9px 10px 18px 0px rgba(0,0,0,0.75);
+                }
+
                 h2{
                     text-align:center;
                 }
@@ -62,7 +79,6 @@ const BlogPostCard = props => (
                     .cardContainer{
                         margin: 10px;
                         max-width:275px;
-                        border: 1px solid #aaa;
                         border-radius: 10px;
                         text-decoration:none;
                     }
@@ -91,7 +107,7 @@ const BlogPostCard = props => (
                         margin:8px;
                     }
                 }
-                `}
+                `}  
 
             </style>
             <Link href="/post/[slug]" as={`/post/${props.title}`}>

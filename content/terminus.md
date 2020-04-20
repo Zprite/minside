@@ -28,7 +28,7 @@ For å registrere vakter i terminus må brukeren velge aktuell dag i kalenderen 
  - Arbeidsplass
  - Skattefradrag (ikke implementert per idag)
  
-## Lønnsoversikt
+ ## Lønnsoversikt
 <div class="imageContainer">
     <img src="https://i.imgur.com/BL3oKTx.png"
         title="Bilde av lønnsslipp" width="300" height="600"/>

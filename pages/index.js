@@ -15,8 +15,6 @@ export default function Index() {
 				div{
 					background: #eee;
 					border-radius:4px;
-					padding: 2px;
-					margin: 2px;
 				}
 				.mainInfo{
 					margin: 0px;
@@ -44,6 +42,7 @@ export default function Index() {
 				justify-content: space-evenly;
 				flex-wrap: wrap;
 				margin: 0px 18%;
+				margin-top:24px;
 			}
 			.basicInfoContainer{
 				max-width:500px;
