@@ -106,7 +106,7 @@ export default function Index() {
 						 src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png"/>
 						<ContactCard text="Zprite" href="https://github.com/zprite" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"/>
 						<ContactCard text="birkelandmarcus@gmail.com" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png"/>
-						<ContactCard text="+47 93041777" src="https://p7.hiclipart.com/preview/826/886/420/iphone-computer-icons-telephone-call-phone-call-icon.jpg"/>
+						<ContactCard text="Ta kontakt" src="https://p7.hiclipart.com/preview/826/886/420/iphone-computer-icons-telephone-call-phone-call-icon.jpg"/>
 
 					</div>
 				</div>
