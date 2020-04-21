@@ -60,6 +60,11 @@ body {
     padding: 32px 64px;
     border-radius: 8px;
     margin-top: 24px;
+    padding-bottom: 128px;
+}
+
+video{
+
 }
 
 .markdown p {
