@@ -60,7 +60,7 @@ const Header = () => (
       `}</style>
       <div className="headerItems">
       <Link href="/">
-        <a><h1><span style={{color:"#00ff95"}}>M</span>arcus <span style={{color:"#fc036f"}}>B</span>irkeland</h1></a>
+        <a><h1><span>M</span>arcus <span>B</span>irkeland</h1></a>
       </Link>
         <div className="linkContainer">
           <Link href="/">

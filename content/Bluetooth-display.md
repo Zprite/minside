@@ -11,6 +11,7 @@ Displayet får strøm via Arduino-enheten via USB. Dette gjør at displayet enke
 I og med at jeg trengte å lage en Android-app for å kontrollere displayet, måtte jeg lære meg Android Studio og grunnlegende Java. Appen som følger med prosjektet er min første Android-app. Før dette prosjektet hadde jeg for det meste gjort all koding i C og C++. 
 
 Koden til både Arduino og Android kan du hente på min Github: 
+
 https://github.com/Zprite/BluetoothMatrix
 
 

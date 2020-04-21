@@ -116,10 +116,20 @@ const BlogPostCard = props => (
             <Link href="/post/[slug]" as={`/post/${props.title}`}>
                 <a className="imageLink"><img src={props.img} /></a>
             </Link>
-            <p className="date"> Laget: {props.date}</p>
+            <p className="date"> Prosjekt startet: {date(props.date)}</p>
             <p className="desc">{props.desc}</p>
         </div>
 
 );
 
+const date = (dateIn) => {
+    
+    let date = new Date(dateIn);
+    return (
+        <>
+            {('0' + date.getDay()).slice(-2) + "." + ('0' + (date.getMonth()+1)).slice(-2) + "." + date.getFullYear()}
+        </>
+
+    )
+}
 export default BlogPostCard;

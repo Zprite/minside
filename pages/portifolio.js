@@ -68,7 +68,7 @@ export default function Portifolio() {
         </p>
       </div>
         <div className="cardContainer">
-          {GetAllApps()}
+          { GetAllApps()}
         </div>
       </div>
       </div> 
@@ -78,7 +78,9 @@ export default function Portifolio() {
 const GetAllApps = () => {
   return(
     <>
-      {posts.map(post => <BlogPostCard date={post.date} title={post.title} desc={post.desc} img={post.img}/>)}
+      {posts.sort((a, b) => new Date(b.date) - new Date (a.date)).map(post => <BlogPostCard date={post.date} title={post.title} desc={post.desc} img={post.img}/>)}
     </>
   )
 }
+
+
