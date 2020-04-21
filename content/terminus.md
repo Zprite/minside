@@ -19,7 +19,8 @@ NB: Minimumskrav : Android  8.0 Oreo
 </div>
 
 
-Hovedkomponentet i appen er naturligvis kalenderen. Kort oppsummert kan brukeren bla gjennom en kalender fra månde til månde og registrere arbeidsvakter. Videre kan brukeren registrere en eller flere jobber. Her oppgis timelønn og eventuelle timer hvor angitte lønnstillegg eller fradrag gjelder. Disse variablene blir brukt i lønnskalkulator-komponentet av applikasjonen til flere formål (mer om dette videre i artikkelen.).
+Hovedkomponentet i appen er naturligvis kalenderen. Kort oppsummert kan brukeren bla gjennom en kalender fra månde til månde og registrere arbeidsvakter. Videre kan brukeren registrere en eller flere jobber. 
+Her oppgis timelønn og eventuelle timer hvor angitte lønnstillegg eller fradrag gjelder. Disse variablene blir brukt i lønnskalkulator-komponentet av applikasjonen til flere formål (mer om dette videre i artikkelen.).
 For å registrere vakter i terminus må brukeren velge aktuell dag i kalenderen og trykke "ny vakt". Her kan/må man fylle inn følgende informasjon:
 
  - Start og sluttid på vakten (nattevakt må sjekkes av)
@@ -27,8 +28,7 @@ For å registrere vakter i terminus må brukeren velge aktuell dag i kalenderen 
  - Overtid, evt. hvor mange prosent av timelønna som blir tillagt
  - Arbeidsplass
  - Skattefradrag (ikke implementert per idag)
- 
- ## Lønnsoversikt
+## Lønnsoversikt
 <div class="imageContainer">
     <img src="https://i.imgur.com/BL3oKTx.png"
         title="Bilde av lønnsslipp" width="300" height="600"/>

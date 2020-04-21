@@ -36,6 +36,9 @@ const Header = () => (
         align-items:center;
 
       }
+      h1{
+        color:#00cc85;
+      }
       .linkContainer{
         display:flex;
         justify-content:center;

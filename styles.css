@@ -15,7 +15,6 @@ body {
 
   }
 
-
   .contentDescContainer{
       padding: 10px;
       display: flex;
@@ -63,10 +62,6 @@ body {
     padding-bottom: 128px;
 }
 
-video{
-
-}
-
 .markdown p {
     margin: 0 auto;
 }
@@ -91,7 +86,7 @@ video{
 .markdown p, blockquote, ul, ol, dl, table, pre {
     margin: 15px 0;
     max-width: 800px;
-    font-size: 1.15em;
+    font-size: 1em;
 	}
 
 .markdown ul, ol {
@@ -141,6 +136,7 @@ video{
     .markdown {
         min-width: 200px;
         margin: 0 auto;
+        padding: 12px 12px;
     }
     .markdown img{
         margin: 8px 0;
@@ -164,4 +160,10 @@ video{
         max-height: 500px;
         font-size: 0.5em;
     }
+    .markdown p, blockquote, ul, ol, dl, table, pre {
+        margin: 15px 0px;
+        max-width: 600px;
+        font-size: 1em;
+        line-height: 130%;
+        }
   }

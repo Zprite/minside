@@ -34,7 +34,7 @@ export default function Index() {
 				margin: 20px;
 			}
 			p{
-				font-size:1.2em;
+				font-size:1em;
 			}
 			.mainInfo{
 				display:flex;
