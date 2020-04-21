@@ -13,9 +13,9 @@ NB: Minimumskrav : Android  8.0 Oreo
 ## Kalender
 <div class="imageContainer">
     <img src="https://i.imgur.com/G5uHCJX.png" alt="Kitten"
-        title="Bilde av kalenderen" width="300" height="600" />
+        title="Bilde av kalenderen" width="330"  />
     <img src="https://i.imgur.com/TwFtC4R.png"
-            title="Bilde av vaktopsett"width="300" height="600" />
+            title="Bilde av vaktopsett" width="330"/>
 </div>
 
 
@@ -31,9 +31,9 @@ For å registrere vakter i terminus må brukeren velge aktuell dag i kalenderen 
 ## Lønnsoversikt
 <div class="imageContainer">
     <img src="https://i.imgur.com/BL3oKTx.png"
-        title="Bilde av lønnsslipp" width="300" height="600"/>
+        title="Bilde av lønnsslipp" width="330"/>
     <img src="https://i.imgur.com/WwKVThe.png"
-        title="Bilde av lønnsslipp"width="300" height="600"/>
+        title="Bilde av lønnsslipp" width="330"/>
 </div>
 
  Ut i fra dataene appen får fra brukeren via vakter som er satt opp, regner applikasjonen automatisk ut brutto og netto månedslønn for hver måned. Disse er basert på brukerdefinerte lønningsperioder, og dermed kan brukeren få et godt estimat på hva de får på lønnslippen. For å regne nettolønn angir brukeren skattemetode, enten det er tabelltrekk eller prosenttrekk. 

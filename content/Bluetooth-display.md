@@ -36,7 +36,7 @@ Videre er Arduino koblet til bluetooth-modulen. Fordi Arduinoen sender ut signal
 
 ## Android app
 <div class="imageContainer">
-<img src="https://i.imgur.com/voQrMZw.png" alt="Bilde av android app" height="700px"/>
+<img src="https://i.imgur.com/voQrMZw.png" alt="Bilde av android app" width="330"/>
 </div>
 For å styre displayet har jeg installert en HC-05 Bluetooth modul som komuniserer med Arduinoen som er på brettet. Jeg har laget en Android app som kobler seg opp til HC-05 modulen, og lar brukeren sende strenger til displayet. I tillegg kan brukeren justere lysstyrken på displayet, og hvor fort teksten går. Denne informasjonen blir ført fra mobilenheten til HC-05 enheten over BT, og blir så lest av Arduinoen som behandler signalene. I likhet med klokkeprosjektet mitt, bruker jeg her MD_MAX72xx og MD_Parola bibliotekene for å kontrollere displayet. 
 
