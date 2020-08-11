@@ -83,7 +83,7 @@ export default function Index() {
 			<div className="mainInfo">
 					<div className="basicInfoContainer">
 						<div className="profileContainer">
-							<img className="profilePic" src="https://scontent.fosl3-2.fna.fbcdn.net/v/t31.0-8/p960x960/13243767_1722770394655392_2128908422727414325_o.jpg?_nc_cat=109&_nc_sid=85a577&_nc_ohc=QL0h-nhzDZcAX-3ITKt&_nc_ht=scontent.fosl3-2.fna&_nc_tp=6&oh=9f2731887bfb20d1a1a33eb751860a57&oe=5EC1284D"/>
+							<img className="profilePic" src="https://i.imgur.com/bYfDBPN.jpg"/>
 							<h1>Marcus Benjamin Ravnå Birkeland</h1>
 					</div>
 					<h2>Om meg</h2>
